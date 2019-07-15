@@ -1,0 +1,135 @@
+(ExpressProject "my_libs"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\my_libs.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\my_libs.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (myic4j
+      (FullPartName "myic4j.Normal")
+      (LibraryName "C:\USERS\USER\DESKTOP\WORKSPACE\MY_LIBS\MY_LIBS.OLB")
+      (DeviceIndex "0"))
+    (mylibs
+      (FullPartName "mylibs.Normal")
+      (LibraryName "C:\USERS\USER\DESKTOP\WORKSPACE\MY_LIBS\MY_LIBS.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\USERS\USER\DESKTOP\workspace\my_libs\my_libs.dsn")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\my_libs.olb")
+      (Select "Design Resources" "Library" ".\my_libs.olb" "FFG1157"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 427"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 150 1790 150 615")
+        (Scroll "572 1872")
+        (Zoom "400")
+        (Occurrence "/"))
+      (Path "C:\USERS\USER\DESKTOP\WORKSPACE\MY_LIBS\MY_LIBS.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 175 1819 175 644")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3083 757")
+        (Zoom "498"))
+      (Path "C:\Users\user\Desktop\workspace\my_libs\my_libs.OLB")
+      (Package "mylibs"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 1351 0 469")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "919 284")
+        (Zoom "249"))
+      (Path "C:\Users\user\Desktop\workspace\my_libs\my_libs.OLB")
+      (Package "myic2j"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1376 25 494")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "2605 617")
+        (Zoom "498"))
+      (Path "C:\Users\user\Desktop\workspace\my_libs\my_libs.OLB")
+      (Package "myic4j"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1401 50 519")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "73 0")
+        (Zoom "124"))
+      (Path "C:\Users\user\Desktop\workspace\my_libs\my_libs.OLB")
+      (Package "atmegaic4j"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1426 75 544")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "919 346")
+        (Zoom "249"))
+      (Path "C:\Users\user\Desktop\workspace\my_libs\my_libs.OLB")
+      (Package "atmegaic2j"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1476 125 594")
+        (PackageScroll "0 20")
+        (PackageZoom "1")
+        (PartPackage "Package")
+        (Scroll "615 108")
+        (Zoom "194"))
+      (Path "C:\Users\user\Desktop\workspace\my_libs\my_libs.OLB")
+      (Package "atmega128"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 150 1501 150 619")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Package")
+        (Scroll "215 68")
+        (Zoom "133"))
+      (Path "C:\Users\user\Desktop\workspace\my_libs\my_libs.OLB")
+      (Package "atmega2560"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 1351 0 469")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Package")
+        (Scroll "0 56")
+        (Zoom "136"))
+      (Path "C:\Users\user\Desktop\workspace\my_libs\my_libs.OLB")
+      (Package "FFG1157"))))
